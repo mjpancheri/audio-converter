@@ -1,5 +1,5 @@
-# video-downloader
-Project using the `pydub` lib to convert audio files.
+# audio-converter
+Project to convert `video/audio` files to other audio formats, using `ffmpeg` with Python
 
 ## Config
 > You need to import `pydub`
