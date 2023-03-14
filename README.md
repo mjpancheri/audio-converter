@@ -4,7 +4,7 @@ Project to convert `video/audio` files to other audio formats, using `ffmpeg` wi
 ## Config
 > You need to import `pydub`
 ```bash
-pip install pytube
+pip install pydub
 ```
 
 > To install `pip`, you can use:
