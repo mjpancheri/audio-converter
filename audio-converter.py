@@ -31,7 +31,7 @@ else:
   if len(sys.argv) > 3:
     audio_format = sys.argv[3]
 
-  extension_list = ('*.mpeg', '*.wav')
+  extension_list = ('*.mpeg', '*.wav', '*.mp4')
 
   os.chdir(input_dir)
   for extension in extension_list:
